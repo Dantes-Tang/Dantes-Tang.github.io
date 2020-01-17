@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: 夜的第七章
+tags: Spring
 article_header:
   type: cover
   image:
@@ -9,6 +9,4 @@ sidebar:
 	nav:docs-zh
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
-
-<!--more-->
+开始第一篇技术总结博客啦
