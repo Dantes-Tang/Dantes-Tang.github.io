@@ -4,9 +4,9 @@ tags: Spring
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: 
 sidebar:
-	nav:docs-zh
+	nav: docs-zh
 ---
 
 开始第一篇技术总结博客啦
