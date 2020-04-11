@@ -1,0 +1,31 @@
+### **SSO单点登录：**
+
+从一个系统登录就可以访问其他互信的系统，避免用户重复登录
+
+***SSO体系结构图***
+
+ ![image-20200411232623524](/Users/dantes_tang/Library/Application Support/typora-user-images/image-20200411232623524.png)
+
+***核心组件：***
+
+1. 认证中心
+2. 用户与帐号系统、获取用户数据接口
+3. 客户端模块
+4. 令牌（token）
+
+
+
+***SSO认证流程图：***
+
+![image-20200411233748801](/Users/dantes_tang/Library/Application Support/typora-user-images/image-20200411233748801.png)
+
+*SSO相关核心技术：*
+
+1. HTTP，cookie，session
+2. cookie和session的关系
+3. cookie、sso令牌的载体
+4. 决定cookie内容、生命周期、有效范围的7个属性
+   - name & value
+   - expires---决定存活时间
+   - path & domain
+   - httpOnly与secure
