@@ -1,3 +1,12 @@
+title: SSO 单点登录设计？
+tags: WEB
+article_header:
+  type: cover
+  image:
+    src: 
+sidebar:
+  nav: docs-zh
+
 ### **SSO单点登录：**
 
 从一个系统登录就可以访问其他互信的系统，避免用户重复登录
